@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jason Maligon",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "",
     "email": "jmaligon@hawaii.edu",
     "phone": "808-379-9265",
     "website": "https://jasonmaligon.github.io",
@@ -32,16 +32,6 @@
       "name": "",
       "keywords": [
       ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -53,12 +43,6 @@
         "C++",
         "Java",
         "Javascript",
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
       ]
     }
   ],
