@@ -22,17 +22,23 @@
       },
       {
         "network": "linkedin",
-        "username": "Jason Maligon",
+        "username": "jason-maligon",
         "url": "http://linkedin.com/in/jason-maligon"
       }
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Game development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software development",
       "keywords": [
       ]
     }
+      
   ],
   "skills": [
     {
