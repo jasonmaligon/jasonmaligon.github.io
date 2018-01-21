@@ -8,6 +8,7 @@ permalink: projects/ics111racegame
 date: 2016-09-026
 labels:
   - Java
+  - ICS 111
 summary: Basic race game project for ICS 111.
 ---
 
