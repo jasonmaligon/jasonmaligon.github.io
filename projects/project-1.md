@@ -5,7 +5,7 @@ image: images/race.PNG
 title: ICS 111 Race Game
 permalink: projects/ics111racegame
 # All dates must be YYYY-MM-DD format!
-date: 2016-09-026
+date: 2016-09-26
 labels:
   - Java
   - ICS 111
