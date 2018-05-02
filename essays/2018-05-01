@@ -1,0 +1,11 @@
+---
+layout: essay
+type: essay
+title: Design Patterns
+# All dates must be YYYY-MM-DD format!
+date: 2018-05-01
+labels:
+  - Design Patterns
+---
+
+  Running into problems for anything can be kind of frustrating, but I'd imagine running into the same kinds of problems over and over again can be just as troublesome. Sure it would probably be easier to fix the next time due to the experience, but not many people like running into problems that they already dealt with before. Luckily for software engineers, there's something known as design patterns. Design patterns are repeatable solutions to common problems that occur during software design. It's a benificial system for software engineers as it can speed up development processes and promote better communication through common terms. Different types of design patterns include creational, structural, and behavioral design patterns.  
