@@ -10,9 +10,8 @@ labels:
   - Javascript
   - Meteor
   - React
-  - MongoDB
-  - Semantic UI
-summary: ICS 314 Project for a website that helps users report issues on campus via tickets
+  - ICS 314
+summary: ICS 314 Project for a web application that helps users report issues on campus via tickets
 ---
 
 This project was the final project for the ICS 314 course. I worked in a team of 4 to complete this project. This was the first project I worked on with an actual team, as most of my other projects were done solo or in collaboration with another student. The site consists of a landing page that displays existing ticket reports. Users are able to click on each ticket to view details of the report, add a ticket for a new report, comment on existing reports, and upvote/downvote tickets. There is also an Admin side of the site that allows an admin to overwatch the tickets with the ability to update each ticket and delete tickets if necessary. From this project, I learned a lot more about routing with React, some things about coding in Javascript, using GitHub with a team, and most importantly, working under a team.
