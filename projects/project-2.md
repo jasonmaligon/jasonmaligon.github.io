@@ -19,4 +19,4 @@ This project was the final project for the ICS 314 course. I worked in a team of
 
 For this project, a lot of my contribution went towards an individual ticket page. This consists of linking each individual ticket from the landing to a ticket page that displays specific information that corresponds to that ticket. Along with the information already displayed on a ticket on the landing page, each ticket page also displays a more detailed description of the issue. From there, users can upvote/downvote tickets, provide comments, and admins are also able to update and delete tickets from their own page. I also assisted another member in adding functionality to the voting system.
 
-[Here] is a more detailed description of the project as a whole.
+[Here](https://manoa311.github.io/) is a more detailed description of the project as a whole.
