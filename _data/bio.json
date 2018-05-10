@@ -54,6 +54,13 @@
         "Java",
         "Javascript",
       ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "GitHub",
+      ]
     }
   ],
   "education": [
@@ -75,7 +82,7 @@
       "website": "",
       "startDate": "2016-9-17",
       "endDate": "Present",
-      "summary": "Serve meals to residents",
+      "summary": "Works in a team to serve meals to a group of around 100 residents and set/reset the dining room for service.",
       "highlights": [
       ]
     }
